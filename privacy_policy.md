@@ -1,3 +1,8 @@
+---
+title: Privacy Policy
+layout: template
+filename: privacy_policy.md FILE HERE
+--- 
 <!DOCTYPE html>
     <html>
     <head>
